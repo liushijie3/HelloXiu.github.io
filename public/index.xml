@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HelloXiuBlog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on HelloXiuBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>2818213266@qq.com (HelloXiu)</managingEditor>
+    <webMaster>2818213266@qq.com (HelloXiu)</webMaster>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Tue, 26 Aug 2025 14:02:01 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Tue, 26 Aug 2025 14:02:01 +0800</pubDate>
+      <author>2818213266@qq.com (HelloXiu)</author>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 26 Aug 2025 09:45:00 +0800</pubDate>
+      <author>2818213266@qq.com (HelloXiu)</author>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
